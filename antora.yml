@@ -1,6 +1,6 @@
-name: component-a
-title: Component A
-version: 1.5.6
+name: data_poisoning_detection_in_fl_docs
+title: Data Poisoning Detection in Federated Learning
+version: 1.0.0
 start_page: inline-text-formatting.adoc
 asciidoc:
   attributes:
