@@ -1,7 +1,6 @@
 name: data_poisoning_detection_in_fl_docs
 title: Data Poisoning Detection in Federated Learning
 version: 1.0.0
-start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
