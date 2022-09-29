@@ -1,5 +1,5 @@
-name: data_poisoning_detection_in_fl_docs
-title: Data Poisoning Detection in Federated Learning
+name: docs
+title: Documentations
 version: 1.0.0
 asciidoc:
   attributes:
